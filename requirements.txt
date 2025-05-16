@@ -1,0 +1,13 @@
+##List of any Python dependencies and the version
+
+- pandas==1.5.3 – For data analysis.
+
+- numpy==1.24.2 – For numerical computing purpose.
+
+- matplotlib==3.7.1 – For data visualization.
+
+- requests==2.28.2 – Simplify HTTP requests.
+
+- pytorch==2.0.0 – Deep learning framework.
+
+- tensorflow==2.11.0 – Deep learning library.
